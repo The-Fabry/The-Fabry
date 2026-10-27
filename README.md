@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Andrés%20Toasa&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Aspiring%20Fullstack%20Developer%20·%20JavaScript%20·%20TypeScript%20·%20React&descAlignY=57&descSize=19&animation=fadeIn" width="100%" alt="Andrés Toasa banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:db2777,100:f97316&height=240&section=header&stroke=ffffff&strokeWidth=0&text=Andrés%20Toasa&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Aspiring%20Fullstack%20Developer%20·%20JavaScript%20·%20TypeScript%20·%20React&descAlignY=57&descSize=19&animation=twinkling" width="100%" alt="Andrés Toasa banner"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/The-Fabry">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=👋+Hey+there!+I%27m+Andrés+Toasa;🚀+Building+modern+web+experiences;💡+Clean+code+%7C+Elegant+design;🎓+Computing+student+from+Ecuador+🇪🇨;🌱+Learning+something+new+every+day" alt="Typing SVG"/>
-</a>
+<h3>🚀 Building modern web experiences &nbsp;·&nbsp; 💡 Clean code &nbsp;·&nbsp; 🎨 Elegant design</h3>
+<sub>🎓 Computing student from Ecuador 🇪🇨 &nbsp;|&nbsp; 🌱 Learning something new every day</sub>
 
 <br/><br/>
 
@@ -189,6 +187,6 @@ I'm open to **internships, collaborations and open source**. If you have an idea
 
 *⭐ If you like something here, a star goes a long way. Thanks for stopping by!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:db2777,100:7c3aed&height=130&section=footer" width="100%"/>
 
 </div>
