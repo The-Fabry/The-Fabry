@@ -18,10 +18,9 @@
 <br/>
 
 <!-- SOCIAL -->
-<a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://TU-PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://instagram.com/TU-USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:andrestoasa93@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://the-fabry.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.instagram.com/andy_afte/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
@@ -29,29 +28,28 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
+> 👋 Hi! I'm **Andrés**, a computing student from Ecuador 🇪🇨 who loves turning ideas into clean, good-looking web experiences. I'm leveling up in **TypeScript** and **React** to become a fullstack developer.
+
+<div align="center">
+
+| 🎓 Studying | 🔭 Learning | 🛠️ Building | 🎯 Goal |
+|:---:|:---:|:---:|:---:|
+| Computing | TypeScript · React | Personal web projects | Fullstack developer |
+
+</div>
 
 ```typescript
 const andres: Developer = {
   name:     "Andrés Toasa",
   alias:    "The-Fabry",
   location: "Ecuador 🇪🇨",
-  role:     "Computing student & web developer",
 
-  focus: ["Frontend", "Clean architecture", "UX-minded interfaces"],
-
-  currently: {
-    learning: ["TypeScript", "React", "Node.js"],
-    building: "Personal web projects with real impact",
-    goal:     "Become a fullstack developer",
-  },
-
-  values: ["Consistency", "Learning by doing", "Details that matter"],
-  openTo: ["Internships", "Collaborations", "Open source"],
+  focus:    ["Frontend", "Clean code", "UX-minded interfaces"],
+  learning: ["TypeScript", "React", "Node.js"],
+  values:   ["Consistency", "Learning by doing", "Details that matter"],
+  openTo:   ["Internships", "Collaborations", "Open source"],
 };
 ```
-
-<br clear="right"/>
 
 <details>
 <summary><b>⚡ Quick facts</b></summary>
@@ -59,7 +57,7 @@ const andres: Developer = {
 - 🔭 Currently learning **TypeScript** and **React**
 - 🎮 Gaming · 📚 Reading · ☕ Coffee
 - 💬 Ask me about: web development, JavaScript, UI ideas
-- 📫 Best way to reach me: LinkedIn or email
+- 📫 Best way to reach me: email or Instagram
 
 </details>
 
@@ -183,8 +181,9 @@ const andres: Developer = {
 
 I'm open to **internships, collaborations and open source**. If you have an idea or an opportunity, write to me!
 
-<a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/Let's%20talk-LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&labelColor=1a1a2e"/></a>
-<a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Send%20me-an%20Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:andrestoasa93@gmail.com"><img src="https://img.shields.io/badge/Send%20me-an%20Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://the-fabry.github.io"><img src="https://img.shields.io/badge/See%20my-Portfolio-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.instagram.com/andy_afte/"><img src="https://img.shields.io/badge/Follow%20me-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/></a>
 
 <br/><br/>
 
