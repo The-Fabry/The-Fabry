@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/The-Fabry">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=👋+Hey+there!+I'm+Andrés+Toasa;🚀+Building+modern+web+experiences;💡+Clean+code+%7C+Elegant+design;🎓+Computing+student+from+Ecuador+🇪🇨;🌱+Learning+something+new+every+day" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=👋+Hey+there!+I%27m+Andrés+Toasa;🚀+Building+modern+web+experiences;💡+Clean+code+%7C+Elegant+design;🎓+Computing+student+from+Ecuador+🇪🇨;🌱+Learning+something+new+every+day" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -67,22 +67,16 @@ const andres: Developer = {
 
 ## 🚀 Featured Projects
 
-<!-- Reemplaza REPO_1, REPO_2... por el nombre exacto de tus repositorios -->
+<!-- Reemplaza Comandos_Basicos, The-Fabry.github.io... por el nombre exacto de tus repositorios -->
 
 <div align="center">
 
-<a href="https://github.com/The-Fabry/REPO_1"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fabry&repo=REPO_1&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
-<a href="https://github.com/The-Fabry/REPO_2"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fabry&repo=REPO_2&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
-<a href="https://github.com/The-Fabry/REPO_3"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fabry&repo=REPO_3&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
-<a href="https://github.com/The-Fabry/REPO_4"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fabry&repo=REPO_4&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
+<a href="https://github.com/The-Fabry/Comandos_Basicos"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fabry&repo=Comandos_Basicos&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
+<a href="https://github.com/The-Fabry/The-Fabry.github.io"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fabry&repo=The-Fabry.github.io&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
+<a href="https://github.com/The-Fabry/Cuaeto-proyecto-web"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fabry&repo=Cuaeto-proyecto-web&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
+<a href="https://github.com/The-Fabry/Proyecto-Consultorio-Medico-CV"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fabry&repo=Proyecto-Consultorio-Medico-CV&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
 
 </div>
-
-| 🧩 Project | 📝 Description | 🛠️ Stack | 🔗 Links |
-|:---|:---|:---|:---|
-| **Spidey Tracker** | Spider-Man themed web app with a canvas game (physics-based web swinging) and a custom landing page | HTML · CSS · JavaScript | [Repo](https://github.com/The-Fabry/REPO_1) · [Demo](https://TU-DEMO.com) |
-| **Project 2** | What problem it solves, in one line | Stack | [Repo](https://github.com/The-Fabry/REPO_2) |
-| **Project 3** | What problem it solves, in one line | Stack | [Repo](https://github.com/The-Fabry/REPO_3) |
 
 ---
 
@@ -153,32 +147,14 @@ const andres: Developer = {
 
 ---
 
-## 🏆 Trophies
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=The-Fabry&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Fabry&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
-<!-- SNAKE: activa esto después de agregar .github/workflows/snake.yml y ejecutar el workflow una vez
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Fabry/The-Fabry/output/github-contribution-grid-snake-dark.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/The-Fabry/The-Fabry/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
--->
 
 ---
 
